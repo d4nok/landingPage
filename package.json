@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "name": "landingpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4nok/landingPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d4nok/landingPage/issues"
+  },
+  "homepage": "https://github.com/d4nok/landingPage#readme",
+  "description": ""
 }
